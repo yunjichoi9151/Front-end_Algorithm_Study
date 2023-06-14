@@ -56,14 +56,15 @@ Thanks to : 원영현([@YounghyunS2](https://github.com/YounghyunS2))
 
 ## 📅 Study Schedule
 
-| **Date** | **Topic** | **Detail** |
-| 23.03.12 | React | React Youtube 강의 수강, 추후 계획 수립 |
+| **Date** | **Topic**              | **Detail**                                              |
+| -------- | ---------------------- | ------------------------------------------------------- |
+| 23.03.12 | React                  | React Youtube 강의 수강, 추후 계획 수립                 |
 | 23.03.19 | TypeScript, JavaScript | TypeScript Youtube 강의 수강, JavaScript 강의 4강 ~ 9강 |
-| 23.04.09 | Project | Project를 진행하며 생겼던 어려움 & 해결 방법 공유 |
-| 23.04.16 | TypeScript, JavaScript | TypeScript 가이드북 실습, JavaScript 강의 10강 ~ 18강 |
-| 23.04.23 | JavaScript | 10, 13, 22, 31, 38, 42 Chapter 정리 & 설명 |
-| 23.04.30 | JavaScript | 14, 15, 37, 46 Chapter 정리 & 설명 |
-| 23.05.07 | JavaScript | 16, 26(1), 34, 39 Chapter 정리 & 설명 |
-| 23.05.29 | JavaScript | 11, 16, 26(2), 35, 41 Chapter 정리 & 설명 |
-| 23.06.04 | JavaScript | 12, 40 Chapter 정리 & 설명 |
-| 23.06.14 | Portfolio | Portfolio 소개 및 피드백 |
+| 23.04.09 | Project                | Project를 진행하며 생겼던 어려움 & 해결 방법 공유       |
+| 23.04.16 | TypeScript, JavaScript | TypeScript 가이드북 실습, JavaScript 강의 10강 ~ 18강   |
+| 23.04.23 | JavaScript             | 10, 13, 22, 31, 38, 42 Chapter 정리 & 설명              |
+| 23.04.30 | JavaScript             | 14, 15, 37, 46 Chapter 정리 & 설명                      |
+| 23.05.07 | JavaScript             | 16, 26(1), 34, 39 Chapter 정리 & 설명                   |
+| 23.05.29 | JavaScript             | 11, 16, 26(2), 35, 41 Chapter 정리 & 설명               |
+| 23.06.04 | JavaScript             | 12, 40 Chapter 정리 & 설명                              |
+| 23.06.14 | Portfolio              | Portfolio 소개 및 피드백                                |
