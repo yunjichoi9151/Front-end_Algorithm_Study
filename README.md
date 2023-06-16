@@ -68,3 +68,4 @@ Thanks to : 원영현([@YounghyunS2](https://github.com/YounghyunS2))
 | 23.05.29 | JavaScript             | 11, 16, 26(2), 35, 41 Chapter 정리 & 설명               |
 | 23.06.04 | JavaScript             | 12, 40 Chapter 정리 & 설명                              |
 | 23.06.14 | Portfolio              | Portfolio 소개 및 피드백                                |
+| 23.06.18 | Algorithm              | Algorithm 1주차                                        |
