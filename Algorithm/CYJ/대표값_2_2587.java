@@ -1,4 +1,4 @@
-package Algorithm.CYJ;
+
 
 import java.util.Arrays;
 import java.util.Scanner;

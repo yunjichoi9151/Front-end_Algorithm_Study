@@ -1,5 +1,3 @@
-package Algorithm.CYJ;
-
 import java.util.Scanner;
 
 public class 네_번째_점_3009 {

@@ -1,5 +1,3 @@
-package Algorithm.CYJ;
-
 import java.util.Scanner;
 import java.util.Stack;
 
