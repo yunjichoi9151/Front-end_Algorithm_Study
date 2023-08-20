@@ -1,5 +1,3 @@
-package Programmers;
-
 public class 삼진법_뒤집기_68935 {
     public int solution(int n) {
         int answer = 0;

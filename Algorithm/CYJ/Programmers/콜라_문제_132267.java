@@ -1,5 +1,3 @@
-package Programmers;
-
 public class 콜라_문제_132267 {
     public int solution(int a, int b, int n) {
         int answer = 0;

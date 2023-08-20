@@ -1,5 +1,3 @@
-package Programmers;
-
 import java.util.Arrays;
 
 public class 문자열_내림차순으로_배치하기_12917 {

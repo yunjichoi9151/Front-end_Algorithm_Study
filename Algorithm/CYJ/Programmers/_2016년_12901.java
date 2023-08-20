@@ -1,5 +1,3 @@
-package Programmers;
-
 public class _2016년_12901 {
     public String solution(int a, int b) {
         String answer = "";

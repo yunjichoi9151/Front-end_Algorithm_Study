@@ -1,5 +1,3 @@
-package Programmers;
-
 public class 키패드_누르기_67256 {
     public String solution(int[] numbers, String hand) {
         String answer = "";

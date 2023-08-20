@@ -1,5 +1,3 @@
-package Programmers;
-
 public class 최대공약수와_최소공배수_12940 {
     public int[] solution(int n, int m) {
         int min = n < m ? n : m;

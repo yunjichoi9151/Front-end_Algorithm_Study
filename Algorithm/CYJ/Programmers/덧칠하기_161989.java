@@ -1,5 +1,3 @@
-package Programmers;
-
 class 덧칠하기_161989 {
     public int solution(int n, int m, int[] section) {
         int answer = 1;

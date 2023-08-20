@@ -1,5 +1,3 @@
-package Programmers;
-
 import java.util.*;
 
 class 최댓값과_최솟값_12939 {

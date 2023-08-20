@@ -1,5 +1,3 @@
-package Programmers;
-
 public class 이상한_문자_만들기_12930 {
     public String solution(String s) {
         String answer = "";

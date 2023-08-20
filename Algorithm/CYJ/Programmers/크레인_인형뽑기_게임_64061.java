@@ -1,5 +1,3 @@
-package Programmers;
-
 import java.util.Stack;
 
 public class 크레인_인형뽑기_게임_64061 {

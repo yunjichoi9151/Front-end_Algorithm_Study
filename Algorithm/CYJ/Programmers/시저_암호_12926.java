@@ -1,5 +1,3 @@
-package Programmers;
-
 public class 시저_암호_12926 {
     public String solution(String s, int n) {
         String answer = "";

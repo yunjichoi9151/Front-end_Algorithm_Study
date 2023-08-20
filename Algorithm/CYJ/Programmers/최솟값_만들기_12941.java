@@ -1,5 +1,3 @@
-package Programmers;
-
 import java.util.*;
 
 class 최솟값_만들기_12941

@@ -1,5 +1,3 @@
-package Programmers;
-
 public class 하샤드_수_12947 {
     public boolean solution(int x) {
         String str = Integer.toString(x);

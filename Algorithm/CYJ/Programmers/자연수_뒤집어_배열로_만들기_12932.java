@@ -1,5 +1,3 @@
-package Programmers;
-
 public class 자연수_뒤집어_배열로_만들기_12932 {
     public int[] solution(long n) {
         String s = n + "";

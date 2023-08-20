@@ -1,5 +1,3 @@
-package Programmers;
-
 import java.util.Scanner;
 
 public class 직사각형_별찍기_12969 {

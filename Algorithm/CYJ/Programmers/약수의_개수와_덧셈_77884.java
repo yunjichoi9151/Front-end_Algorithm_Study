@@ -1,5 +1,3 @@
-package Programmers;
-
 public class 약수의_개수와_덧셈_77884 {
     public int solution(int left, int right) {
         int answer = 0;

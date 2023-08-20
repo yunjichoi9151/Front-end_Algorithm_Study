@@ -1,5 +1,3 @@
-package Programmers;
-
 public class 다트_게임_17682 {
     public int solution(String dartResult) {
         int char_idx = 0;

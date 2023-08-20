@@ -1,5 +1,3 @@
-package Programmers;
-
 public class 소수_만들기_12977 {
     public int solution(int[] nums) {
         int answer = 0;

@@ -1,5 +1,3 @@
-package Programmers;
-
 class 공원_산책_172928 {
     static char[][] map;
     public int[] solution(String[] park, String[] routes) {

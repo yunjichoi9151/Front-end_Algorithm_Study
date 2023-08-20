@@ -1,5 +1,3 @@
-package Programmers;
-
 import java.util.ArrayList;
 
 public class 같은_숫자는_싫어_12906 {

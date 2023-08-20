@@ -1,5 +1,3 @@
-package Programmers;
-
 import java.util.Arrays;
 
 public class K번째수_42748 {

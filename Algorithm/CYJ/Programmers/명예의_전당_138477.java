@@ -1,5 +1,3 @@
-package Programmers;
-
 public class 명예의_전당_138477 {
     public int[] solution(String[] name, int[] yearning, String[][] photo) {
         int[] answer = new int[photo.length];

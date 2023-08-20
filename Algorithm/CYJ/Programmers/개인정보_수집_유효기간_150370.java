@@ -1,5 +1,3 @@
-package Programmers;
-
 import java.util.*;
 
 class 개인정보_수집_유효기간_150370 {

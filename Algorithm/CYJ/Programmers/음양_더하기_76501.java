@@ -1,5 +1,3 @@
-package Programmers;
-
 public class 음양_더하기_76501 {
     public int solution(int[] absolutes, boolean[] signs) {
         int answer = 0;

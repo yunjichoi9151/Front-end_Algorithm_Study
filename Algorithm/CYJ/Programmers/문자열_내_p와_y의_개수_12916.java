@@ -1,5 +1,3 @@
-package Programmers;
-
 public class 문자열_내_p와_y의_개수_12916 {
     boolean solution(String s) {
         s = s.toLowerCase();

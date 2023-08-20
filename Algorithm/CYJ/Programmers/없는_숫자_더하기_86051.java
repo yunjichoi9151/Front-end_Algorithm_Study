@@ -1,5 +1,3 @@
-package Programmers;
-
 public class 없는_숫자_더하기_86051 {
     public int solution(int[] numbers) {
         int answer = 0;

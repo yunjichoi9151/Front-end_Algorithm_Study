@@ -1,5 +1,3 @@
-package Programmers;
-
 public class 숫자_짝꿍_131128 {
     public String solution(String X, String Y) {
         int[][] arr = new int[10][2];

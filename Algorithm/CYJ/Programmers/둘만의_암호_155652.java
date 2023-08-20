@@ -1,5 +1,3 @@
-package Programmers;
-
 public class 둘만의_암호_155652 {
     public String solution(String s, String skip, int index) {
         String answer = "";

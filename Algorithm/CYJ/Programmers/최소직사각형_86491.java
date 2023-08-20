@@ -1,5 +1,3 @@
-package Programmers;
-
 public class 최소직사각형_86491 {
     public int solution(int[][] sizes) {
         int row_max = 0;

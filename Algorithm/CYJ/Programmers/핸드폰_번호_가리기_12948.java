@@ -1,5 +1,3 @@
-package Programmers;
-
 public class 핸드폰_번호_가리기_12948 {
     public String solution(String phone_number) {
         String answer = "";

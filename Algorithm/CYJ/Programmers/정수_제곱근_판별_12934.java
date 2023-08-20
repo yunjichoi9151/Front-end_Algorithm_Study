@@ -1,5 +1,3 @@
-package Programmers;
-
 public class 정수_제곱근_판별_12934 {
     public long solution(long n) {
         double answer = Math.sqrt(n);

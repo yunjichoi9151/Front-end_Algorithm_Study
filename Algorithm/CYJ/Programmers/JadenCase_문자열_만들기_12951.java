@@ -1,5 +1,3 @@
-package Programmers;
-
 class JadenCase_문자열_만들기_12951 {
     public String solution(String s) {
         String answer = "";

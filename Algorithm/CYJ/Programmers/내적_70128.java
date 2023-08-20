@@ -1,5 +1,3 @@
-package Programmers;
-
 public class 내적_70128 {
     public int solution(int[] a, int[] b) {
         int answer = 0;

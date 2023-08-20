@@ -1,5 +1,3 @@
-package Programmers;
-
 public class 푸드_파이트_대회_134240 {
     public String solution(int[] food) {
         String answer = "";

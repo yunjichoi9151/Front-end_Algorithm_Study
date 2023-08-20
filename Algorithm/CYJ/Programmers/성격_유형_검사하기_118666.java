@@ -1,5 +1,3 @@
-package Programmers;
-
 import java.util.*;
 
 class 성격_유형_검사하기_118666 {

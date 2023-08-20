@@ -1,5 +1,3 @@
-package Programmers;
-
 public class 기사단원의_무기_136798 {
     public int solution(int n) {
         int answer = 0;

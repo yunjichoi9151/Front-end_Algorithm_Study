@@ -1,5 +1,3 @@
-package Programmers;
-
 public class 평균_구하기_12944 {
     public double solution(int[] arr) {
         double answer = 0;

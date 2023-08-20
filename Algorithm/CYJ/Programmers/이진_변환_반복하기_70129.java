@@ -1,5 +1,3 @@
-package Programmers;
-
 class 이진_변환_반복하기_70129 {
     public int[] solution(String s) {
         int zero_cnt = 0;

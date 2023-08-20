@@ -1,5 +1,3 @@
-package Programmers;
-
 public class 수박수박수박수박수박수_12922 {
     public String solution(int n) {
         String answer = "";

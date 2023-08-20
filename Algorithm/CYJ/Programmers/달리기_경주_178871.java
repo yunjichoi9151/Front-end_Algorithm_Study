@@ -1,5 +1,3 @@
-package Programmers;
-
 import java.util.*;
 
 class 달리기_경주_178871 {

@@ -1,5 +1,3 @@
-package Programmers;
-
 public class 폰켓몬_1845 {
     public int solution(int[] nums) {
         int[] pocket = new int[200001];

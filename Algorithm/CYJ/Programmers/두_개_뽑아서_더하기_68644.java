@@ -1,5 +1,3 @@
-package Programmers;
-
 public class 두_개_뽑아서_더하기_68644 {
     public int[] solution(int[] numbers) {
         boolean[] is_include = new boolean[201];

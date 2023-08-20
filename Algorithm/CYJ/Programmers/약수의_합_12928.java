@@ -1,5 +1,3 @@
-package Programmers;
-
 public class 약수의_합_12928 {
     public int solution(int n) {
         int answer = 0;

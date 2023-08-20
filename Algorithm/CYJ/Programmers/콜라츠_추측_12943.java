@@ -1,5 +1,3 @@
-package Programmers;
-
 public class 콜라츠_추측_12943 {
     public int solution(int num) {
         int answer = 0;

@@ -1,5 +1,3 @@
-package Programmers;
-
 import java.util.Arrays;
 
 public class 과일_장수_135808 {

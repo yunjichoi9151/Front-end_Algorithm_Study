@@ -1,5 +1,3 @@
-package Programmers;
-
 public class 가운데_글자_가져오기_12903 {
     public String solution(String s) {
         int len = s.length();

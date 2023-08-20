@@ -1,5 +1,3 @@
-package Programmers;
-
 public class 신규_아이디_추천_72410 {
     public String solution(String new_id) {
         new_id = new_id.toLowerCase().replaceAll("[^a-z0-9-_.]", "").replaceAll("\\.{2,}", ".");

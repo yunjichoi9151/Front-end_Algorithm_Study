@@ -1,5 +1,3 @@
-package Programmers;
-
 class 바탕화면_정리_161990 {
     public int[] solution(String[] wallpaper) {
         int[] answer = {Integer.MAX_VALUE, Integer.MAX_VALUE, 0, 0};

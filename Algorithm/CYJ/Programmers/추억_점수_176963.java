@@ -1,5 +1,3 @@
-package Programmers;
-
 public class 추억_점수_176963 {
     public int[] solution(String[] name, int[] yearning, String[][] photo) {
         int[] answer = new int[photo.length];

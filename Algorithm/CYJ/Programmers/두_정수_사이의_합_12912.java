@@ -1,5 +1,3 @@
-package Programmers;
-
 public class 두_정수_사이의_합_12912 {
     public long solution(int a, int b) {
         long answer = 0;

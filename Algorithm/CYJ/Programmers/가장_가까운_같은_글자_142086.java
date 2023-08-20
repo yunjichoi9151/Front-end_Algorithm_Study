@@ -1,5 +1,3 @@
-package Programmers;
-
 public class 가장_가까운_같은_글자_142086 {
     public String solution(int[] food) {
         String answer = "";

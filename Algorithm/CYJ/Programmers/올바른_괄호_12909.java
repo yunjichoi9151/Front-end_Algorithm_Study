@@ -1,5 +1,3 @@
-package Programmers;
-
 import java.util.*;
 
 class 올바른_괄호_12909 {

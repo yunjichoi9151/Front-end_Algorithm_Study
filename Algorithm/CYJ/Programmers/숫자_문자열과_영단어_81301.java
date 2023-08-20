@@ -1,5 +1,3 @@
-package Programmers;
-
 public class 숫자_문자열과_영단어_81301 {
     public int solution(String s) {
         int idx = 0;

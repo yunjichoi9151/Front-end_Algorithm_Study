@@ -1,5 +1,3 @@
-package Programmers;
-
 public class 로또의_최고_순위와_최저_순위_77484 {
     public int[] solution(int[] lottos, int[] win_nums) {
         int[] answer = {0, 0};

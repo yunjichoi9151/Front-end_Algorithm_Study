@@ -1,5 +1,3 @@
-package Programmers;
-
 import java.util.Arrays;
 
 public class 제일_작은_수_제거하기_12935 {

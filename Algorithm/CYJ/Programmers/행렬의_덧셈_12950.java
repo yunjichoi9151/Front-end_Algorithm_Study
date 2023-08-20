@@ -1,5 +1,3 @@
-package Programmers;
-
 public class 행렬의_덧셈_12950 {
     public int[][] solution(int[][] arr1, int[][] arr2) {
         int[][] answer = new int[arr1.length][arr1[0].length];

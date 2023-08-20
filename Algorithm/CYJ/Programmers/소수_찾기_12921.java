@@ -1,5 +1,3 @@
-package Programmers;
-
 public class 소수_찾기_12921 {
     public int solution(int n) {
         int answer = 0;

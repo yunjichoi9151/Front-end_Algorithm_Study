@@ -1,5 +1,3 @@
-package Programmers;
-
 import java.util.Arrays;
 
 public class 대충_만든_자판_160586 {

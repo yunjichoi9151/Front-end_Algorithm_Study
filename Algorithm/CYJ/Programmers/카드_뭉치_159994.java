@@ -1,5 +1,3 @@
-package Programmers;
-
 public class 카드_뭉치_159994 {
     public String solution(String[] cards1, String[] cards2, String[] goal) {
         int cnt1 = 0;
