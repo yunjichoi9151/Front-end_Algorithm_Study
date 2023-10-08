@@ -1,4 +1,3 @@
-package Baekjoon;
 import java.util.LinkedList;
 import java.util.Scanner;
 
