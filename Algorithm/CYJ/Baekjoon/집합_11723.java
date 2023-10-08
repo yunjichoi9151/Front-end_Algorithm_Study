@@ -1,4 +1,3 @@
-package Baekjoon;
 import java.util.Scanner;
 
 public class 집합_11723 {

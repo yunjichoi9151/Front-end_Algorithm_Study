@@ -1,4 +1,3 @@
-package Baekjoon;
 import java.util.Scanner;
 
 public class 시험_감독_13458 {

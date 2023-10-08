@@ -1,4 +1,3 @@
-package Baekjoon;
 import java.util.Scanner;
 
 public class 단어순서_뒤집기_12605 {

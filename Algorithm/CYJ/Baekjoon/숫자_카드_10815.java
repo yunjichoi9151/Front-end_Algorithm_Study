@@ -1,4 +1,3 @@
-package Baekjoon;
 
 
 import java.io.BufferedReader;

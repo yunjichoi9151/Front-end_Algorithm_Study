@@ -1,4 +1,3 @@
-package Baekjoon;
 import java.util.Scanner;
 
 public class 그대로_출력하기_2_11719 {

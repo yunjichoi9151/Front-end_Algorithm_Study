@@ -1,4 +1,3 @@
-package Baekjoon;
 import java.util.Scanner;
 
 public class 다리_놓기_1010 {
