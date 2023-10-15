@@ -1,10 +1,10 @@
 # 📚 Front-end-Study
 
-> Since 2023.03.12
+> Since 2023.03.12 ~
 
 ## 🌳 Rule
 
-- 스터디는 매주 일(오후 9시) 진행
+- 스터디는 매주 일 오후 9시 진행
 
 ## 👨‍💻 Collaborator
 
@@ -68,6 +68,20 @@ Thanks to : 원영현([@YounghyunS2](https://github.com/YounghyunS2))
 | 23.05.29 | JavaScript             | 11, 16, 26(2), 35, 41 Chapter 정리 & 설명               |
 | 23.06.04 | JavaScript             | 12, 40 Chapter 정리 & 설명                              |
 | 23.06.14 | Portfolio              | Portfolio 소개 및 피드백                                |
-| 23.06.18 | Algorithm              | Algorithm 1주차                                        |
-| 23.06.25 | Algorithm              | Algorithm 2주차                                        |
-| 23.07.02 | Algorithm              | Algorithm 3주차                                        |
+| 23.06.18 | Algorithm              | Algorithm 1주차                                         |
+| 23.06.25 | Algorithm              | Algorithm 2주차                                         |
+| 23.07.02 | Algorithm              | Algorithm 3주차                                         |
+| 23.07.09 | Algorithm              | Algorithm 4주차                                         |
+| 23.07.16 | Algorithm              | Algorithm 5주차                                         |
+| 23.07.23 | Algorithm              | Algorithm 6주차                                         |
+| 23.07.30 | Algorithm              | Algorithm 7주차                                         |
+| 23.08.06 | Algorithm              | Algorithm 8주차                                         |
+| 23.08.13 | Algorithm              | Algorithm 9주차                                         |
+| 23.08.20 | Algorithm              | Algorithm 10주차                                         |
+| 23.08.27 | Algorithm              | Algorithm 11주차                                         |
+| 23.09.03 | Algorithm              | Algorithm 12주차                                         |
+| 23.09.10 | Algorithm              | Algorithm 13주차                                         |
+| 23.09.17 | Algorithm              | Algorithm 14주차                                         |
+| 23.09.24 | Algorithm              | Algorithm 15주차                                         |
+| 23.10.01 | Algorithm              | Algorithm 16주차                                         |
+| 23.10.08 | Algorithm              | Algorithm 17주차                                         |
