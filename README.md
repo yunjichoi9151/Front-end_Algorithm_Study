@@ -86,3 +86,4 @@ Thanks to : 원영현([@YounghyunS2](https://github.com/YounghyunS2))
 | 23.10.01 | Algorithm              | Algorithm 16주차                                         |
 | 23.10.08 | Algorithm              | Algorithm 17주차                                         |
 | 23.10.15 | Algorithm              | Algorithm 18주차                                         |
+| 23.10.22 | Algorithm              | Algorithm 19주차                                         |
