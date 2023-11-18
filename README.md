@@ -90,3 +90,4 @@ Thanks to : 원영현([@YounghyunS2](https://github.com/YounghyunS2))
 | 23.10.29 | Algorithm              | Algorithm 20주차                                         |
 | 23.11.05 | Algorithm              | Algorithm 21주차                                         |
 | 23.11.12 | Algorithm              | Algorithm 22주차                                         |
+| 23.11.19 | Algorithm              | Algorithm 23주차                                         |
